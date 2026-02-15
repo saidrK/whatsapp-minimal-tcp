@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 # 💬 WhatsApp Minimal avec Sockets TCP
 
 Un système de messagerie instantanée simplifié développé en Python utilisant les sockets TCP pour illustrer la communication client-serveur.
