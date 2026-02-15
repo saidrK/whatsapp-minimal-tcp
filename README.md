@@ -182,3 +182,13 @@ thread.start()
 - Assurez-vous que le serveur est démarré
 - Vérifiez l'adresse IP et le port
 - Désactivez temporairement le pare-feu
+## 📸 Aperçu
+
+### Interface Console
+![Console](screenshots/console.png)
+
+### Interface Graphique
+![GUI](screenshots/gui.png)
+
+### Interaction avec le client 
+![Console01](screenshots/console01.png)
