@@ -1,0 +1,18 @@
+# WhatsApp Minimal - Requirements
+# Ce projet utilise uniquement des bibliothèques standard Python
+# Aucune installation supplémentaire n'est nécessaire
+
+# Python version requise
+# python>=3.7
+
+# Bibliothèques standard utilisées (déjà incluses avec Python) :
+# - socket : Communication réseau
+# - threading : Multi-threading pour le serveur
+# - tkinter : Interface graphique (inclus avec Python sur Windows/Mac)
+# - datetime : Horodatage des messages
+
+# Note pour Linux :
+# Sur certaines distributions Linux, tkinter doit être installé séparément :
+# Ubuntu/Debian : sudo apt-get install python3-tk
+# Fedora : sudo dnf install python3-tkinter
+# Arch Linux : sudo pacman -S tk
